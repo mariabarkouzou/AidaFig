@@ -9,11 +9,14 @@
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=AidaFig&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidaFig&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
+  <h3 align="left">Languages and Tools:</h3>
   <div style="display: inline_block"><br>
   <img align="center" alt="Aida-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aida-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Aida-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aida-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://sass-lang.com" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+   <a href="https://git-scm.com/" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    <img align="right" alt="Aida-gif" src="https://i.picasion.com/pic91/6b81e4baff768e772a4003fb94f0f429.gif">
 </div>
   
